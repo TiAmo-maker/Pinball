@@ -1,0 +1,8 @@
+/* 在style.css中添加新的颜色变量 */
+:root {
+    --brick-color: #0095DD;
+}
+
+canvas {
+    background-color: #eee;
+}
